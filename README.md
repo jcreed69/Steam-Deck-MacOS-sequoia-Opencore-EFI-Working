@@ -1,11 +1,11 @@
 # Steam-Deck-MacOS-sequoia-Opencore-EFI-Working
-Working EFI for Steam Deck
+Working EFI for Steam Deck "Deckintosh"
 
 This is a working EFI For Steam Deck LCD and Oled. Currently we have got MacOS Sequoia.
 
 DOESNT WORK/issues:
 
-- Orinatation always set to portrait and currently trying to find a work around
+- Orinatation - always set to portrait and currently trying to find a work around
 - Wi-Fi and Bluetooth - unless changed to an intel chip or by buying a Wi-Fi adaptor
 - Screen brightness - unless connected to external display or screen mirroring
 - Airdrop and Location services - all of these needs Wi-Fi and bluetooth 
@@ -64,6 +64,10 @@ Instructions
    Once the terminal opens head to the downloads on this repo and open the MacOS Online Installer cmd Find the version you want and copy the text and paste           as it will download the installer
   
    Once Finished you will see a com.apple.recovery.boot. copy that folder and paste it to your USB
+
+After:
+
+You can edit this Config.plist by using either ProperTree or OCAT
   
  
     
