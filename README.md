@@ -37,6 +37,7 @@ Instructions
 - Format your USB Drive to Fat32 by using on DiskUtil(macOS) / Rufus(windows / Disk Managment (windows)
 
   Making the installer(MacOS)
+  
   - On the App store download the OS you want to install (Certain Mac devices cannot install the MacOS you want if the device can support it)
   - Once Downloaded Head to Finder > Applications and right click the Installer and select "Show Package Contents"
   - once inside the installer head to Contents > Resources and right click the file which has the name CreateInstallMedia and copy the file
@@ -51,12 +52,18 @@ Instructions
   - The installer you make is the Online installer. Requires USB tethering - Kext Loaded in EFi
  
    Steps:
-       - Download the MacRecovery.zip from this repo
-       - Download python (any Version) from the microsoft store or the offical website.
-       - Extract the Zip you downloaded
-       - Whilst in the folder (where you see macrecovery.py) in the search bar of file explorer type "cmd"
-       -Once the terminal opens head to the downloads on this repo and open the MacOS Online Installer cmd Find the version you want and copy the text and paste           as it will download the installer
-       -Once Finished you will see a com.apple.recovery.boot. copy that folder and paste it to your USB
+  
+   Download the MacRecovery.zip from this repo
+  
+   Download python (any Version) from the microsoft store or the offical website.
+  
+   Extract the Zip you downloaded
+  
+   Whilst in the folder (where you see macrecovery.py) in the search bar of file explorer type "cmd"
+  
+   Once the terminal opens head to the downloads on this repo and open the MacOS Online Installer cmd Find the version you want and copy the text and paste           as it will download the installer
+  
+   Once Finished you will see a com.apple.recovery.boot. copy that folder and paste it to your USB
   
  
     
