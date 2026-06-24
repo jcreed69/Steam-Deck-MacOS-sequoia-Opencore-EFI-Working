@@ -41,7 +41,23 @@ Instructions
   - Once Downloaded Head to Finder > Applications and right click the Installer and select "Show Package Contents"
   - once inside the installer head to Contents > Resources and right click the file which has the name CreateInstallMedia and copy the file
   - Once done open the terminal app and enter sudo (paste what you just copied) --volume /Volumes/(your USB name)
-  - Once entered enter your sudo password and select Y and it will start downloading.
+  - Once entered enter your sudo password and select Y and it will start downloading to your USB.
+ 
+  Making the installer(windows)
+
+  Before you continue
+
+  - you will need to download the MacRecovery.Zip from this repo
+  - The installer you make is the Online installer. Requires USB tethering - Kext Loaded in EFi
+ 
+   Steps:
+       - Download the MacRecovery.zip from this repo
+       - Download python (any Version) from the microsoft store or the offical website.
+       - Extract the Zip you downloaded
+       - Whilst in the folder (where you see macrecovery.py) in the search bar of file explorer type "cmd"
+       -Once the terminal opens head to the downloads on this repo and open the MacOS Online Installer cmd Find the version you want and copy the text and paste           as it will download the installer
+       -Once Finished you will see a com.apple.recovery.boot. copy that folder and paste it to your USB
+  
  
     
 
