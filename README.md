@@ -82,6 +82,29 @@ Questions:
         4. Find MacOS Tahoe(if you cant find Goldengate you need to be a developer. follow the steps on Want the Beta versions?) 
        
         5. Once installed the installer, the installer will open up prompting to install follow the instructions. the Mac will restart
+    
+   - Want the Beta Versions of MacOS (MacOS tahoe (26) and MacOS GoldenGate (27)
+        1. On your device go to developer.apple.com and sign in
+        2. once done restart system settings or Restart your Mac(recommended)
+        3. head back to system update and you will see beta updates. by default it will be Off. Toggle either Public Beta or Developer beta
+             - Public beta - MacOS Tahoe (MacOS GoldenGate will be released to Public beta in July 2026)
+             - Developer Beta - MacOS Tahoe and MacOS GoldenGate
+             - Off - MacOS Tahoe (MacOS GoldenGate will be released to everyone in September 2026)
+               
+             ---Current Versions---
+           
+               -Public Beta
+                  - MacOS Tahoe - 26.6 Public Beta 2 (build 25G5043d)
+                  - MacOS GoldenGate - Not available
+                    
+               -Developer Beta:
+                  - MacOS 26.6 Beta 3 (Build 25G5043d)
+                  - MacOS Goldengate 27.0 Beta 2 (Build 26A5368g)
+              
+               -Off
+                - MacOS Sequoia 15.6.1
+                - MacOS Tahoe 26.5.2
+                - MacOS GoldenGate - Not released to public
       
   
  
