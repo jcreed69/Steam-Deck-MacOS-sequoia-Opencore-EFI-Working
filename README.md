@@ -68,6 +68,21 @@ Instructions
 After:
 
 You can edit this Config.plist by using either ProperTree or OCAT
+
+Questions:
+   
+   - When installing the Local Installer on Windows, you cannot install MacOS Tahoe (26) or MacOS GoldenGate (27 Beta). Here are steps to install Tahoe or GoldenGate
+   
+        1. install MacOS sequoia Local installer. Follow the steps at Making the Installer(windows) 
+       
+        2. Boot into the Recovery by installing the EFI from this repo and install the OS
+        
+        3. Once Setup head to the System update (from MacOS 26 you have to install the updates from the system updates rather than the App store(couldn't find it when looking for the link)
+       
+        4. Find MacOS Tahoe(if you cant find Goldengate you need to be a developer. follow the steps on Want the Beta versions?) 
+       
+        5. Once installed the installer, the installer will open up prompting to install follow the instructions. the Mac will restart
+      
   
  
     
